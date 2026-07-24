@@ -137,7 +137,7 @@ Checkpoint mapping:
 - `logs_paper/gqgan_PDG` → GaussianToken + PDG
 - `logs_paper/vqgan` → VQGAN
 
-Evaluate (remember to modify the checkpoint path):
+Evaluate (to reproduce Table 4 results for `GaussianToken`):
 
 ```bash
 bash ./scripts/val-1.sh
