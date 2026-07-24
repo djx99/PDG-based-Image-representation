@@ -67,7 +67,7 @@ cd ../gaussianembed/ops && python setup.py build install
 ## Pretrained Models
 
 - We provide checkpoints for **Table 1** (Gaussian / PDG / PDG+STE for GaussianImage++).
-   Link: `XXX`
+   Link: https://zenodo.org/records/21523140.
    Please download and place them under `gaussianimage_plus_ours/`.
 - We provide checkpoints for **Table 4** (VQGAN / GaussianToken / GaussianToken+PDG).
    Link: `XXX`
