@@ -70,7 +70,7 @@ cd ../gaussianembed/ops && python setup.py build install
    Link: https://zenodo.org/records/21523140.
    Please download and place them under `gaussianimage_plus_ours/`.
 - We provide checkpoints for **Table 4** (VQGAN / GaussianToken / GaussianToken+PDG).
-   Link: `XXX`
+   Link: https://zenodo.org/records/21614182.
    Please place them under:
   - `GaussianToken-master/`
   - `GaussianToken-master-PDG/`
